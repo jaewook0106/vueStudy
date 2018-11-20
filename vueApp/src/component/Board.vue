@@ -11,6 +11,7 @@
       <router-link :to="`/b/${bid}/c/2`">Card2</router-link>
     </div>
 
+
     <router-view></router-view>
   </div>
 </template>
