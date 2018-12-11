@@ -8,8 +8,7 @@
       </h2>
     </div>
     <div slot="body">
-      <form id="add-board-form" 
-        @submit.prevent="addBoard">
+      <form id="add-board-form" @submit.prevent="addBoard">
         <input class="form-control" type="text" v-model="input" ref="input">
       </form>
     </div>
