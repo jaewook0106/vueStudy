@@ -61,7 +61,7 @@ export default {
 </script>
 
 <style>
-  .login {
+.login {
   width: 400px;
   margin: 0 auto; 
 }
